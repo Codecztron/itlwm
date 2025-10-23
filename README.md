@@ -13,6 +13,7 @@ We highly recommend exploring our documentation before using this Kernel Extensi
 ## Download
 
 [![Download from https://github.com/OpenIntelWireless/itlwm/releases](https://img.shields.io/github/v/release/OpenIntelWireless/itlwm?label=Download)](https://github.com/OpenIntelWireless/itlwm/releases)
+for 
 
 ## Questions and Issues
 
@@ -44,4 +45,4 @@ We only accept bug reports in GitHub Issues, before opening an issue, you're rec
 - [@iStarForever](https://github.com/XStar-Dev)
 - [@stevezhengshiqi](https://github.com/stevezhengshiqi)
 - [@DogAndPot](https://github.com/DogAndPot) for providing resources and help for system configuration
-- [@Daliansky](https://github.com/Daliansky) for providing Wi-Fi cards 
+- [@Daliansky](https://github.com/Daliansky) for providing Wi-Fi cards
